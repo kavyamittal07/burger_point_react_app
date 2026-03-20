@@ -36,6 +36,13 @@ burger-point-react-application/
 
 ---
 
+<img width="1470" height="712" alt="Screenshot 2026-03-20 at 9 35 03 PM" src="https://github.com/user-attachments/assets/7a4a7a86-f125-45d7-93c6-1d54bd4e468d" />
+
+<img width="1470" height="711" alt="Screenshot 2026-03-20 at 9 35 26 PM" src="https://github.com/user-attachments/assets/f877ac30-1890-4565-861f-d8765f90b950" />
+
+<img width="1469" height="707" alt="Screenshot 2026-03-20 at 9 35 47 PM" src="https://github.com/user-attachments/assets/f2e74e60-8331-4fff-80f0-4449a2ea376a" />
+
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
@@ -47,14 +54,4 @@ cd burger-point-react-application
 npm install
 
 npm start
-
-<img width="1470" height="712" alt="Screenshot 2026-03-20 at 9 35 03 PM" src="https://github.com/user-attachments/assets/e061c318-5998-4c6d-9a25-cc112f1c9b4f" />
-
-<img width="1470" height="711" alt="Screenshot 2026-03-20 at 9 35 26 PM" src="https://github.com/user-attachments/assets/803e209e-1eeb-4856-b75f-1e0d72871d3e" />
-
-<img width="1469" height="707" alt="Screenshot 2026-03-20 at 9 35 47 PM" src="https://github.com/user-attachments/assets/bd376f41-8e8a-40ec-8e08-8fc4b1a4663f" />
-
-
-
-
 
